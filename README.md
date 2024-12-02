@@ -6,13 +6,24 @@ A company can grow rapidly by understanding its customers' personality behaviors
 # About Project
 In this project, i will take on the role of a Data Scientist within a company’s core Data Science team. i am given the responsibility to process historical marketing campaign data to enhance performance and target the right customers to encourage transactions on the company’s platform. Here, i will learn how to process data, clean data, build a machine learning model, and draw business conclusions and insights that can be recommended regarding the ongoing marketing campaign.
 
+## Goals
+The main goal of customer segmentation based on characteristics using machine learning is to identify groups of customers with similar needs, preferences, and behaviors, enabling the company to develop more relevant and effective marketing strategies, offers, and services.
+
+## Objective
+1. Extracting in-depth and valuable insights through EDA  
+2. Performing data cleaning and preparation for modeling  
+3. Building an unsupervised learning machine learning model using K-Means  
+4. Interpreting the clusters obtained  
+5. Making business recommendations based on the findings  
+
 # Tools
 1. Python Programming Language
 2. Jupyterlab / Jupyter Notebook
 
 # Model and Metric Evaluation
 1. K-Means Clustering.
-2. Silhouette Score
+2. Silhouette Score.
+3. Conversion Rate
 
 # Dataset
 | Column                | Description                                                                 |

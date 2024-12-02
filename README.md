@@ -48,13 +48,18 @@ In this project, i will take on the role of a Data Scientist within a company’
 | Z_Revenue            | Estimated revenue generated from the customer                             |
 | Response             | 1 if the customer accepted the offer in the last campaign, 0 otherwise    |
 
-
-
-
-
-
-
 # Contact Information
 - **Name:** Yoga Aprila
 - **Email:** [yogaapril0504@gmail.com](mailto:yogaapril0504@gmail.com)
 - **LinkedIn:** [Yoga Aprila](https://www.linkedin.com/in/yoga-aprila/)
+
+## 1. Exploratory Data Analysis (EDA)
+
+## 2. Data Preprocessing
+
+## 3. Modeling and Evaluation
+
+## 4. Clustering Interpretation
+
+## 5. Business Recommendation
+

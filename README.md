@@ -3,9 +3,6 @@
 # Overview
 A company can grow rapidly by understanding its customers' personality behaviors, enabling it to provide better services and benefits to customers who have the potential to become loyal customers. By processing historical marketing campaign data to improve performance and target the right customers to transact on the company’s platform, the focus from this data insight is to create a predictive clustering model, making it easier for the company to make decisions.
 
-# About Project
-In this project, i will take on the role of a Data Scientist within a company’s core Data Science team. i am given the responsibility to process historical marketing campaign data to enhance performance and target the right customers to encourage transactions on the company’s platform. Here, i will learn how to process data, clean data, build a machine learning model, and draw business conclusions and insights that can be recommended regarding the ongoing marketing campaign.
-
 ## Goals
 The main goal of customer segmentation based on characteristics using machine learning is to identify groups of customers with similar needs, preferences, and behaviors, enabling the company to develop more relevant and effective marketing strategies, offers, and services.
 
@@ -54,7 +51,7 @@ The main goal of customer segmentation based on characteristics using machine le
 | AcceptedCmp5         | 1 if the customer accepted the offer in campaign 5, 0 otherwise           |
 | AcceptedCmp1         | 1 if the customer accepted the offer in campaign 1, 0 otherwise           |
 | AcceptedCmp2         | 1 if the customer accepted the offer in campaign 2, 0 otherwise           |
-| Complain             | 1 if the customer complained in the last 2 years                          |
+| Complain             | 1 if the customer complained                                              |
 | Z_CostContact        | Fixed cost associated with customer contact                               |
 | Z_Revenue            | Estimated revenue generated from the customer                             |
 | Response             | 1 if the customer accepted the offer in the last campaign, 0 otherwise    |
@@ -64,13 +61,15 @@ The main goal of customer segmentation based on characteristics using machine le
 - **Email:** [yogaapril0504@gmail.com](mailto:yogaapril0504@gmail.com)
 - **LinkedIn:** [Yoga Aprila](https://www.linkedin.com/in/yoga-aprila/)
 
-## 1. Exploratory Data Analysis (EDA)
+## 1. Feature Extraction
 
-## 2. Data Preprocessing
+## 2. Exploratory Data Analysis (EDA)
 
-## 3. Modeling and Evaluation
+## 3. Data Preprocessing
 
-## 4. Clustering Interpretation
+## 4. Modeling and Evaluation
 
-## 5. Business Recommendation
+## 5. Clustering Interpretation
+
+## 6. Business Recommendation
 

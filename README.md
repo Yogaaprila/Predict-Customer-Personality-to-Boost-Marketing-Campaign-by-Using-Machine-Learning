@@ -24,7 +24,7 @@ The main goal of customer segmentation based on characteristics using machine le
 2. Silhouette Score.
 3. Conversion Rate
 
-# Dataset
+# [Dataset](https://github.com/Yogaaprila/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/blob/main/marketing_campaign_data.csv)
 | Column                | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | Unnamed: 0           | Index column, likely from the original dataset                              |

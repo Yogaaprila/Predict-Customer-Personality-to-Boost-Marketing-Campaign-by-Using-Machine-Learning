@@ -59,7 +59,6 @@ The main goal of customer segmentation based on characteristics using machine le
 | Response             | 1 if the customer accepted the offer in the last campaign, 0 otherwise    |
 
 # Contact Information
-- **Name:** Yoga Aprila
 - **Email:** [yogaapril0504@gmail.com](mailto:yogaapril0504@gmail.com)
 - **LinkedIn:** [Yoga Aprila](https://www.linkedin.com/in/yoga-aprila/)
 

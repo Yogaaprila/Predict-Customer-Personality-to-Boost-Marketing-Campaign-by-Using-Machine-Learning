@@ -1,6 +1,6 @@
 # Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning
 
-![Alt Link]()
+![Alt Link](pictures/cover.png)
 
 # Overview
 A company can grow rapidly by understanding its customers' personality behaviors, enabling it to provide better services and benefits to customers who have the potential to become loyal customers. By processing historical marketing campaign data to improve performance and target the right customers to transact on the company’s platform, the focus from this data insight is to create a predictive clustering model, making it easier for the company to make decisions.

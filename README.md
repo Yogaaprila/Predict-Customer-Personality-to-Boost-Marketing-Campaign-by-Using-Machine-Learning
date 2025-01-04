@@ -123,14 +123,37 @@ Extract some new features based on from existing features on dataset.
 
 
 ### 2.2 Scatter Plot of Conversion Rate vs Age, Income, Total Spending, Total Kid, Is Parent and Campaign Acceptance Total
-![Alt Link](pictures/)
+![Alt Link](pictures/output_19_0.png)
+
+1. The distribution of age, total spending, total campaign acceptance, is parent, and membership duration appears to have little to no strong correlation with the conversion rate.
+2. The distribution of income against conversion rate shows that higher income tends to lead to a higher conversion rate, although the correlation does not seem very strong.
+3. Higher conversion rates are predominantly found among customers with 1 child or no children.
+
+For further analysis, linear correlation will be checked using Heatmap Chart.
 
 
 ### 2.3 Distribution of Conversion Rate and Age Group, Education, and Marital Status
+![Alt Link](pictures/output_22_0.png)
+
+1. The distribution of the conversion rate across the age group column does not seem to differ significantly among the groups (lansia, dewasa, and remaja).
+2. The distribution of the conversion rate for education appears similar across all groups, although it is slightly lower for SMA.
+3. The distribution of the conversion rate for marital status also seems consistent across all groups, but it is notably lower for Duda.
 
 ### 2.4 Distribution Chart of Numerical Feature
+![Alt Link](pictures/output_28_0.png)
+
+The data distribution is predominantly skewed.
 
 ### 2.5 Bar Chart of Categorical Feature
+![Alt Link](pictures/output_31_0.png)
+
+1. Customers are predominantly 'SMA','sudah menikah','Dewasa', and 'Orang Tua' (already have children).
+2. Many customers have not yet engaged with the campaigns provided.
+
+### 2.6 Heatmap
+![Alt Link](pictures/output_35_0.png)
+
+There are many features that have high linear correlations, both positive and negative. Therefore, some features can be removed during modeling to reduce multicollinearity.
 
 ## 3. Data Preprocessing
 

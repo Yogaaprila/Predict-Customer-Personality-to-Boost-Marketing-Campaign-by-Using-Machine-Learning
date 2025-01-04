@@ -64,8 +64,34 @@ This dataset contain 2240 rows and 30 columns
 - **LinkedIn:** [Yoga Aprila](https://www.linkedin.com/in/yoga-aprila/)
 
 ## 1. Feature Extraction
+Extract some new features based on from existing features on dataset.
+
+| New Feature's Name                       | Description                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------------------|
+| Membership Duration        | The duration of the customer's membership calculated as the current year (2024) minus the year the customer joined (`dt_customer`). |
+| Total Transaction          | The total number of transactions made by the customer, calculated as the sum of the `numpurchases` column. |
+| Campaign Acceptance Total  | The total number of previous campaigns accepted by the customer.                           |
+| Conversion Rate            | The percentage of purchases (Total Transaction) made through the web.                      |
+| Age                        | The customer's age calculated as the current year (2024) minus the `year_birth`.           |
+| Age Group                  | The customer's age group classification based on their age.                                |
+| Total Kids                 | The total number of children the customer has.                                             |
+| Is Parent                  | Indicates whether the customer is a parent or not.                                         |
+| Total Spending             | The total amount of money spent by the customer on products, calculated from the `Mnt` columns. |
+
 
 ## 2. Exploratory Data Analysis (EDA)
+
+### 2.1 Summary Statistic
+
+### 2.2 Scatter Plot of Conversion Rate vs Age, Income, Total Spending, Total Kid, Is Parent and Campaign Acceptance Total
+![Alt Link](pictures/)
+
+
+### 2.3 Distribution of Conversion Rate and Age Group, Education, and Marital Status
+
+### 2.4 Distribution Chart of Numerical Feature
+
+### 2.5 Bar Chart of Categorical Feature
 
 ## 3. Data Preprocessing
 

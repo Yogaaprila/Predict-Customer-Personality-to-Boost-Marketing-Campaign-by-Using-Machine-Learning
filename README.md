@@ -25,6 +25,8 @@ The main goal of customer segmentation based on characteristics using machine le
 3. Conversion Rate
 
 # [Dataset](https://github.com/Yogaaprila/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning/blob/main/marketing_campaign_data.csv)
+This dataset contain 2240 rows and 30 columns
+
 | Column                | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | Unnamed: 0           | Index column, likely from the original dataset                              |
